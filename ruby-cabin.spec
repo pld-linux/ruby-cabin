@@ -2,7 +2,7 @@
 Summary:	Experiments in structured and contextual logging
 Name:		ruby-%{pkgname}
 Version:	0.6.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
